@@ -1,0 +1,4 @@
+# Swap to poetry, please
+requests
+python-dateutil
+beautifulsoup4
